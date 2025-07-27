@@ -21,3 +21,24 @@
 
 4. **Output**
    - Score range: 0 (high risk) to 1000 (low risk)
+
+4. **How to RUN**
+   *clone github
+      git clone https://github.com/yourusername/wallet_risk_scoring.git
+      cd wallet_risk_scoring
+
+   *Create a virtual environment (optional but recommended)on terminal
+      python -m venv .venv
+      source .venv/bin/activate     # On Linux/macOS
+      .venv\Scripts\activate        # On Windows
+
+   *Install required packages
+      pip install -r requirements.txt on terminal
+   
+   *Run the main script
+      python main.py on terminal
+
+
+
+
+
