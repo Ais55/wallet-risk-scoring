@@ -1,0 +1,929 @@
+[
+  {
+    "wallet_id": "0x0039f22efb07a647557c7c5d17854cfd6d489ef3",
+    "borrow_total": 271.2,
+    "supply_total": 1497.08,
+    "repay_total": 187.3,
+    "borrow_supply_ratio": 0.18115264381328988,
+    "repay_ratio": 0.6906342182890857,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x06b51c6882b27cb05e712185531c1f74996dd988",
+    "borrow_total": 122.15,
+    "supply_total": 336.39,
+    "repay_total": 65.54,
+    "borrow_supply_ratio": 0.36312018787716643,
+    "repay_ratio": 0.5365534179287761,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x0795732aacc448030ef374374eaae57d2965c16c",
+    "borrow_total": 121.3,
+    "supply_total": 507.59,
+    "repay_total": 90.68,
+    "borrow_supply_ratio": 0.2389723989834315,
+    "repay_ratio": 0.747568013190437,
+    "liquidated_count": 2
+  },
+  {
+    "wallet_id": "0x0aaa79f1a86bc8136cd0d1ca0d51964f4e3766f9",
+    "borrow_total": 15.76,
+    "supply_total": 258.56,
+    "repay_total": 2.5,
+    "borrow_supply_ratio": 0.0609529702970297,
+    "repay_ratio": 0.15862944162436549,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0x0fe383e5abc200055a7f391f94a5f5d1f844b9ae",
+    "borrow_total": 1070.86,
+    "supply_total": 1671.59,
+    "repay_total": 959.7,
+    "borrow_supply_ratio": 0.6406235978918275,
+    "repay_ratio": 0.8961955811217154,
+    "liquidated_count": 2
+  },
+  {
+    "wallet_id": "0x104ae61d8d487ad689969a17807ddc338b445416",
+    "borrow_total": 576.61,
+    "supply_total": 1467.26,
+    "repay_total": 464.56,
+    "borrow_supply_ratio": 0.392984201845617,
+    "repay_ratio": 0.8056745460536584,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x111c7208a7e2af345d36b6d4aace8740d61a3078",
+    "borrow_total": 1897.84,
+    "supply_total": 1928.58,
+    "repay_total": 603.24,
+    "borrow_supply_ratio": 0.9840608115815781,
+    "repay_ratio": 0.31785608902752605,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x124853fecb522c57d9bd5c21231058696ca6d596",
+    "borrow_total": 32.84,
+    "supply_total": 456.4,
+    "repay_total": 12.3,
+    "borrow_supply_ratio": 0.07195442594215601,
+    "repay_ratio": 0.3745432399512789,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x13b1c8b0e696aff8b4fee742119b549b605f3cbc",
+    "borrow_total": 504.07,
+    "supply_total": 1067.78,
+    "repay_total": 347.19,
+    "borrow_supply_ratio": 0.47207289891176085,
+    "repay_ratio": 0.6887733846489575,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0x1656f1886c5ab634ac19568cd571bc72f385fdf7",
+    "borrow_total": 567.98,
+    "supply_total": 757.98,
+    "repay_total": 435.57,
+    "borrow_supply_ratio": 0.7493337555080609,
+    "repay_ratio": 0.7668755942110638,
+    "liquidated_count": 2
+  },
+  {
+    "wallet_id": "0x1724e16cb8d0e2aa4d08035bc6b5c56b680a3b22",
+    "borrow_total": 899.81,
+    "supply_total": 1878.45,
+    "repay_total": 462.44,
+    "borrow_supply_ratio": 0.4790172748808858,
+    "repay_ratio": 0.5139307187072827,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0x19df3e87f73c4aaf4809295561465b993e102668",
+    "borrow_total": 102.9,
+    "supply_total": 187.3,
+    "repay_total": 56.68,
+    "borrow_supply_ratio": 0.5493860117458622,
+    "repay_ratio": 0.5508260447035956,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x1ab2ccad4fc97c9968ea87d4435326715be32872",
+    "borrow_total": 427.05,
+    "supply_total": 840.97,
+    "repay_total": 93.45,
+    "borrow_supply_ratio": 0.5078064615860256,
+    "repay_ratio": 0.21882683526519142,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0x1c1b30ca93ef57452d53885d97a74f61daf2bf4f",
+    "borrow_total": 518.29,
+    "supply_total": 632.62,
+    "repay_total": 55.88,
+    "borrow_supply_ratio": 0.8192753943915778,
+    "repay_ratio": 0.10781608751857069,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0x1e43dacdcf863676a6bec8f7d6896d6252fac669",
+    "borrow_total": 1343.9,
+    "supply_total": 1782.42,
+    "repay_total": 942.55,
+    "borrow_supply_ratio": 0.7539749329563178,
+    "repay_ratio": 0.7013542674306124,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0x22d7510588d90ed5a87e0f838391aaafa707c34b",
+    "borrow_total": 174.72,
+    "supply_total": 824.35,
+    "repay_total": 160.06,
+    "borrow_supply_ratio": 0.21194880815187722,
+    "repay_ratio": 0.9160943223443223,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0x24b3460622d835c56d9a4fe352966b9bdc6c20af",
+    "borrow_total": 452.58,
+    "supply_total": 944.33,
+    "repay_total": 196.26,
+    "borrow_supply_ratio": 0.4792604280283375,
+    "repay_ratio": 0.4336470900172345,
+    "liquidated_count": 2
+  },
+  {
+    "wallet_id": "0x26750f1f4277221bdb5f6991473c6ece8c821f9d",
+    "borrow_total": 639.69,
+    "supply_total": 817.91,
+    "repay_total": 601.12,
+    "borrow_supply_ratio": 0.7821031653849446,
+    "repay_ratio": 0.9397051696915693,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0x27f72a000d8e9f324583f3a3491ea66998275b28",
+    "borrow_total": 198.85,
+    "supply_total": 674.42,
+    "repay_total": 196.73,
+    "borrow_supply_ratio": 0.2948459416980517,
+    "repay_ratio": 0.9893386975106864,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x2844658bf341db96aa247259824f42025e3bcec2",
+    "borrow_total": 66.69,
+    "supply_total": 157.82,
+    "repay_total": 28.9,
+    "borrow_supply_ratio": 0.42257001647446457,
+    "repay_ratio": 0.4333483280851702,
+    "liquidated_count": 2
+  },
+  {
+    "wallet_id": "0x2a2fde3e1beb508fcf7c137a1d5965f13a17825e",
+    "borrow_total": 367.89,
+    "supply_total": 542.35,
+    "repay_total": 150.28,
+    "borrow_supply_ratio": 0.6783258043698718,
+    "repay_ratio": 0.40849166870531955,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0x330513970efd9e8dd606275fb4c50378989b3204",
+    "borrow_total": 181.61,
+    "supply_total": 1919.77,
+    "repay_total": 49.74,
+    "borrow_supply_ratio": 0.09459987394323278,
+    "repay_ratio": 0.27388359671824236,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0x3361bea43c2f5f963f81ac70f64e6fba1f1d2a97",
+    "borrow_total": 93.15,
+    "supply_total": 585.64,
+    "repay_total": 20.85,
+    "borrow_supply_ratio": 0.15905675841814085,
+    "repay_ratio": 0.22383252818035426,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x3867d222ba91236ad4d12c31056626f9e798629c",
+    "borrow_total": 341.18,
+    "supply_total": 1192.16,
+    "repay_total": 198.44,
+    "borrow_supply_ratio": 0.2861864179304791,
+    "repay_ratio": 0.5816284659124216,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0x3a44be4581137019f83021eeee72b7dc57756069",
+    "borrow_total": 74.32,
+    "supply_total": 169.89,
+    "repay_total": 18.29,
+    "borrow_supply_ratio": 0.43745953263876625,
+    "repay_ratio": 0.24609795479009688,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x3e69ad05716bdc834db72c4d6d44439a7c8a902b",
+    "borrow_total": 699.81,
+    "supply_total": 791.53,
+    "repay_total": 21.93,
+    "borrow_supply_ratio": 0.8841231538918297,
+    "repay_ratio": 0.03133707720667039,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0x427f2ac5fdf4245e027d767e7c3ac272a1f40a65",
+    "borrow_total": 946.15,
+    "supply_total": 1331.17,
+    "repay_total": 371.6,
+    "borrow_supply_ratio": 0.7107657173764432,
+    "repay_ratio": 0.392749564022618,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x4814be124d7fe3b240eb46061f7ddfab468fe122",
+    "borrow_total": 1656.02,
+    "supply_total": 1964.78,
+    "repay_total": 579.23,
+    "borrow_supply_ratio": 0.8428526349005996,
+    "repay_ratio": 0.34977234574461663,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0x4839e666e2baf12a51bf004392b35972eeddeabf",
+    "borrow_total": 219.25,
+    "supply_total": 671.36,
+    "repay_total": 13.19,
+    "borrow_supply_ratio": 0.3265759056244042,
+    "repay_ratio": 0.060159635119726336,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0x4c4d05fe859279c91b074429b5fc451182cec745",
+    "borrow_total": 808.06,
+    "supply_total": 1483.18,
+    "repay_total": 55.07,
+    "borrow_supply_ratio": 0.5448158686066424,
+    "repay_ratio": 0.06815087988515704,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0x4d997c89bc659a3e8452038a8101161e7e7e53a7",
+    "borrow_total": 216.71,
+    "supply_total": 346.82,
+    "repay_total": 151.41,
+    "borrow_supply_ratio": 0.6248486246467909,
+    "repay_ratio": 0.6986756494854874,
+    "liquidated_count": 2
+  },
+  {
+    "wallet_id": "0x4db0a72edb5ea6c55df929f76e7d5bb14e389860",
+    "borrow_total": 114.0,
+    "supply_total": 341.73,
+    "repay_total": 69.02,
+    "borrow_supply_ratio": 0.3335966991484505,
+    "repay_ratio": 0.605438596491228,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0x4e61251336c32e4fe6bfd5fab014846599321389",
+    "borrow_total": 25.92,
+    "supply_total": 334.83,
+    "repay_total": 12.4,
+    "borrow_supply_ratio": 0.07741241824209301,
+    "repay_ratio": 0.478395061728395,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0x4e6e724f4163b24ffc7ffe662b5f6815b18b4210",
+    "borrow_total": 719.5,
+    "supply_total": 811.66,
+    "repay_total": 643.28,
+    "borrow_supply_ratio": 0.8864549195475938,
+    "repay_ratio": 0.8940653231410701,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x507b6c0d950702f066a9a1bd5e85206f87b065ba",
+    "borrow_total": 811.23,
+    "supply_total": 813.26,
+    "repay_total": 547.87,
+    "borrow_supply_ratio": 0.9975038733000516,
+    "repay_ratio": 0.6753571736745436,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x54e19653be9d4143b08994906be0e27555e8834d",
+    "borrow_total": 312.88,
+    "supply_total": 1093.37,
+    "repay_total": 214.09,
+    "borrow_supply_ratio": 0.28616113483999017,
+    "repay_ratio": 0.6842559447711583,
+    "liquidated_count": 2
+  },
+  {
+    "wallet_id": "0x56ba823641bfc317afc8459bf27feed6eb9ff59f",
+    "borrow_total": 105.0,
+    "supply_total": 1971.13,
+    "repay_total": 14.03,
+    "borrow_supply_ratio": 0.05326893710714158,
+    "repay_ratio": 0.1336190476190476,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0x56cc2bffcb3f86a30c492f9d1a671a1f744d1d2f",
+    "borrow_total": 981.7,
+    "supply_total": 1022.68,
+    "repay_total": 141.57,
+    "borrow_supply_ratio": 0.9599288144874253,
+    "repay_ratio": 0.14420902516043596,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0x578cea5f899b0dfbf05c7fbcfda1a644b2a47787",
+    "borrow_total": 532.26,
+    "supply_total": 1164.36,
+    "repay_total": 257.02,
+    "borrow_supply_ratio": 0.4571266618571576,
+    "repay_ratio": 0.48288430466313453,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x58c2a9099a03750e9842d3e9a7780cdd6aa70b86",
+    "borrow_total": 127.67,
+    "supply_total": 479.16,
+    "repay_total": 110.38,
+    "borrow_supply_ratio": 0.2664454461975123,
+    "repay_ratio": 0.8645727265606642,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x58d68d4bcf9725e40353379cec92b90332561683",
+    "borrow_total": 158.89,
+    "supply_total": 470.87,
+    "repay_total": 148.93,
+    "borrow_supply_ratio": 0.3374392082740459,
+    "repay_ratio": 0.937315123670464,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x5e324b4a564512ea7c93088dba2f8c1bf046a3eb",
+    "borrow_total": 363.94,
+    "supply_total": 632.6,
+    "repay_total": 284.66,
+    "borrow_supply_ratio": 0.5753082516598166,
+    "repay_ratio": 0.7821618948178272,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0x612a3500559be7be7703de6dc397afb541a16f7f",
+    "borrow_total": 49.73,
+    "supply_total": 153.01,
+    "repay_total": 48.14,
+    "borrow_supply_ratio": 0.32501143716096986,
+    "repay_ratio": 0.9680273476774583,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x623af911f493747c216ad389c7805a37019c662d",
+    "borrow_total": 452.63,
+    "supply_total": 880.95,
+    "repay_total": 114.63,
+    "borrow_supply_ratio": 0.5137976048583914,
+    "repay_ratio": 0.25325320902282217,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0x6a2752a534faacaaa153bffbb973dd84e0e5497b",
+    "borrow_total": 704.44,
+    "supply_total": 1343.07,
+    "repay_total": 183.71,
+    "borrow_supply_ratio": 0.5244998399189916,
+    "repay_ratio": 0.2607887116007041,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0x6d69ca3711e504658977367e13c300ab198379f1",
+    "borrow_total": 495.4,
+    "supply_total": 625.02,
+    "repay_total": 386.33,
+    "borrow_supply_ratio": 0.7926146363316374,
+    "repay_ratio": 0.7798344771901494,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x6e355417f7f56e7927d1cd971f0b5a1e6d538487",
+    "borrow_total": 55.15,
+    "supply_total": 119.77,
+    "repay_total": 50.91,
+    "borrow_supply_ratio": 0.4604658929615096,
+    "repay_ratio": 0.9231187669990933,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0x70c1864282599a762c674dd9d567b37e13bce755",
+    "borrow_total": 85.6,
+    "supply_total": 1244.69,
+    "repay_total": 2.72,
+    "borrow_supply_ratio": 0.06877214406800086,
+    "repay_ratio": 0.031775700934579446,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x70d8e4ab175dfe0eab4e9a7f33e0a2d19f44001e",
+    "borrow_total": 199.17,
+    "supply_total": 1177.84,
+    "repay_total": 106.0,
+    "borrow_supply_ratio": 0.16909767031175713,
+    "repay_ratio": 0.5322086659637496,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x7399dbeebe2f88bc6ac4e3fd7ddb836a4bce322f",
+    "borrow_total": 43.11,
+    "supply_total": 308.81,
+    "repay_total": 24.96,
+    "borrow_supply_ratio": 0.13960040154140085,
+    "repay_ratio": 0.5789839944328462,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0x767055590c73b7d2aaa6219da13807c493f91a20",
+    "borrow_total": 7.23,
+    "supply_total": 533.21,
+    "repay_total": 4.2,
+    "borrow_supply_ratio": 0.013559385607921831,
+    "repay_ratio": 0.5809128630705395,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x7851bdfb64bbecfb40c030d722a1f147dff5db6a",
+    "borrow_total": 364.05,
+    "supply_total": 1215.07,
+    "repay_total": 276.32,
+    "borrow_supply_ratio": 0.29961236801171953,
+    "repay_ratio": 0.7590166185963466,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x7b4636320daa0bc055368a4f9b9d01bd8ac51877",
+    "borrow_total": 720.96,
+    "supply_total": 1167.53,
+    "repay_total": 569.48,
+    "borrow_supply_ratio": 0.6175087578049386,
+    "repay_ratio": 0.7898912561029738,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0x7b57dbe2f2e4912a29754ff3e412ed9507fd8957",
+    "borrow_total": 947.73,
+    "supply_total": 1275.43,
+    "repay_total": 415.87,
+    "borrow_supply_ratio": 0.7430670440557302,
+    "repay_ratio": 0.4388064111086491,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0x7be3dfb5b6fcbae542ea85e76cc19916a20f6c1e",
+    "borrow_total": 270.23,
+    "supply_total": 451.51,
+    "repay_total": 186.14,
+    "borrow_supply_ratio": 0.5985028017098182,
+    "repay_ratio": 0.6888206342745068,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0x7de76a449cf60ea3e111ff18b28e516d89532152",
+    "borrow_total": 89.25,
+    "supply_total": 680.83,
+    "repay_total": 54.3,
+    "borrow_supply_ratio": 0.13108999309666142,
+    "repay_ratio": 0.6084033613445378,
+    "liquidated_count": 2
+  },
+  {
+    "wallet_id": "0x7e3eab408b9c76a13305ef34606f17c16f7b33cc",
+    "borrow_total": 92.76,
+    "supply_total": 123.93,
+    "repay_total": 46.45,
+    "borrow_supply_ratio": 0.7484870491406439,
+    "repay_ratio": 0.5007546356188012,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0x7f5e6a28afc9fb0aaf4259d4ff69991b88ebea47",
+    "borrow_total": 42.16,
+    "supply_total": 229.25,
+    "repay_total": 26.24,
+    "borrow_supply_ratio": 0.18390403489640128,
+    "repay_ratio": 0.6223908918406073,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0x83ea74c67d393c6894c34c464657bda2183a2f1a",
+    "borrow_total": 1855.51,
+    "supply_total": 1984.95,
+    "repay_total": 546.32,
+    "borrow_supply_ratio": 0.9347892894027557,
+    "repay_ratio": 0.2944311806457524,
+    "liquidated_count": 2
+  },
+  {
+    "wallet_id": "0x8441fecef5cc6f697be2c4fc4a36feacede8df67",
+    "borrow_total": 244.95,
+    "supply_total": 1978.59,
+    "repay_total": 77.7,
+    "borrow_supply_ratio": 0.12380028201901354,
+    "repay_ratio": 0.3172075933864054,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0x854a873b8f9bfac36a5eb9c648e285a095a7478d",
+    "borrow_total": 57.13,
+    "supply_total": 1798.71,
+    "repay_total": 55.8,
+    "borrow_supply_ratio": 0.03176165140572966,
+    "repay_ratio": 0.9767197619464378,
+    "liquidated_count": 2
+  },
+  {
+    "wallet_id": "0x8587d9f794f06d976c2ec1cfd523983b856f5ca9",
+    "borrow_total": 289.25,
+    "supply_total": 311.36,
+    "repay_total": 66.41,
+    "borrow_supply_ratio": 0.9289889516957862,
+    "repay_ratio": 0.22959377700950734,
+    "liquidated_count": 2
+  },
+  {
+    "wallet_id": "0x880a0af12da55df1197f41697c1a1b61670ed410",
+    "borrow_total": 527.15,
+    "supply_total": 853.73,
+    "repay_total": 196.22,
+    "borrow_supply_ratio": 0.6174668806297072,
+    "repay_ratio": 0.372228018590534,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0x8aaece100580b749a20f8ce30338c4e0770b65ed",
+    "borrow_total": 405.27,
+    "supply_total": 1178.39,
+    "repay_total": 317.9,
+    "borrow_supply_ratio": 0.3439183971350741,
+    "repay_ratio": 0.7844153280529029,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x8be38ea2b22b706aef313c2de81f7d179024dd30",
+    "borrow_total": 420.98,
+    "supply_total": 1780.57,
+    "repay_total": 93.32,
+    "borrow_supply_ratio": 0.23642990727688326,
+    "repay_ratio": 0.22167323863366428,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x8d900f213db5205c529aaba5d10e71a0ed2646db",
+    "borrow_total": 8.56,
+    "supply_total": 977.57,
+    "repay_total": 7.95,
+    "borrow_supply_ratio": 0.008756406190861012,
+    "repay_ratio": 0.9287383177570093,
+    "liquidated_count": 2
+  },
+  {
+    "wallet_id": "0x91919344c1dad09772d19ad8ad4f1bcd29c51f27",
+    "borrow_total": 30.91,
+    "supply_total": 540.1,
+    "repay_total": 30.66,
+    "borrow_supply_ratio": 0.057230142566191446,
+    "repay_ratio": 0.9919120025881591,
+    "liquidated_count": 2
+  },
+  {
+    "wallet_id": "0x93f0891bf71d8abed78e0de0885bd26355bb8b1d",
+    "borrow_total": 116.67,
+    "supply_total": 128.35,
+    "repay_total": 52.99,
+    "borrow_supply_ratio": 0.9089988313206078,
+    "repay_ratio": 0.45418702322790777,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0x96479b087cb8f236a5e2dcbfc50ce63b2f421da6",
+    "borrow_total": 902.0,
+    "supply_total": 1085.07,
+    "repay_total": 73.95,
+    "borrow_supply_ratio": 0.8312827743832195,
+    "repay_ratio": 0.08198447893569845,
+    "liquidated_count": 2
+  },
+  {
+    "wallet_id": "0x96bb4447a02b95f1d1e85374cffd565eb22ed2f8",
+    "borrow_total": 16.23,
+    "supply_total": 1177.76,
+    "repay_total": 0.34,
+    "borrow_supply_ratio": 0.013780396685232985,
+    "repay_ratio": 0.020948860135551448,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x9a363adc5d382c04d36b09158286328f75672098",
+    "borrow_total": 218.27,
+    "supply_total": 252.68,
+    "repay_total": 191.93,
+    "borrow_supply_ratio": 0.8638198511951876,
+    "repay_ratio": 0.8793237733082879,
+    "liquidated_count": 2
+  },
+  {
+    "wallet_id": "0x9ad1331c5b6c5a641acffb32719c66a80c6e1a17",
+    "borrow_total": 136.51,
+    "supply_total": 1786.83,
+    "repay_total": 19.18,
+    "borrow_supply_ratio": 0.07639786661294024,
+    "repay_ratio": 0.14050252728737822,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0x9ba0d85f71e145ccf15225e59631e5a883d5d74a",
+    "borrow_total": 318.04,
+    "supply_total": 541.58,
+    "repay_total": 305.25,
+    "borrow_supply_ratio": 0.5872447283873112,
+    "repay_ratio": 0.9597849327128662,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0x9e6ec4e98793970a1307262ba68d37594e58cd78",
+    "borrow_total": 331.53,
+    "supply_total": 380.31,
+    "repay_total": 327.31,
+    "borrow_supply_ratio": 0.8717362151928689,
+    "repay_ratio": 0.9872711368503605,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0xa7e94d933eb0c439dda357f61244a485246e97b8",
+    "borrow_total": 59.4,
+    "supply_total": 538.89,
+    "repay_total": 42.79,
+    "borrow_supply_ratio": 0.11022657685241886,
+    "repay_ratio": 0.7203703703703703,
+    "liquidated_count": 2
+  },
+  {
+    "wallet_id": "0xa7f3c74f0255796fd5d3ddcf88db769f7a6bf46a",
+    "borrow_total": 419.75,
+    "supply_total": 444.98,
+    "repay_total": 212.34,
+    "borrow_supply_ratio": 0.9433008225088768,
+    "repay_ratio": 0.5058725431804646,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0xa98dc64bb42575efec7d1e4560c029231ce5da51",
+    "borrow_total": 76.78,
+    "supply_total": 341.87,
+    "repay_total": 10.99,
+    "borrow_supply_ratio": 0.22458829379588732,
+    "repay_ratio": 0.14313623339411305,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0xb271ff7090b39028eb6e711c3f89a3453d5861ee",
+    "borrow_total": 41.89,
+    "supply_total": 131.38,
+    "repay_total": 7.51,
+    "borrow_supply_ratio": 0.3188460952960877,
+    "repay_ratio": 0.17927906421580328,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0xb475576594ae44e1f75f534f993cbb7673e4c8b6",
+    "borrow_total": 379.54,
+    "supply_total": 467.99,
+    "repay_total": 265.99,
+    "borrow_supply_ratio": 0.8110002350477574,
+    "repay_ratio": 0.7008220477420035,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0xb57297c5d02def954794e593db93d0a302e43e5c",
+    "borrow_total": 501.74,
+    "supply_total": 626.67,
+    "repay_total": 178.28,
+    "borrow_supply_ratio": 0.8006446774219287,
+    "repay_ratio": 0.35532347430940325,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0xbd4a00764217c13a246f86db58d74541a0c3972a",
+    "borrow_total": 66.28,
+    "supply_total": 241.22,
+    "repay_total": 47.43,
+    "borrow_supply_ratio": 0.27476991957549124,
+    "repay_ratio": 0.7156004828002414,
+    "liquidated_count": 2
+  },
+  {
+    "wallet_id": "0xc179d55f7e00e789915760f7d260a1bf6285278b",
+    "borrow_total": 464.2,
+    "supply_total": 514.83,
+    "repay_total": 114.08,
+    "borrow_supply_ratio": 0.9016568576034807,
+    "repay_ratio": 0.24575613959500214,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0xc22b8e78394ce52e0034609a67ae3c959daa84bc",
+    "borrow_total": 84.77,
+    "supply_total": 1615.19,
+    "repay_total": 33.21,
+    "borrow_supply_ratio": 0.052482989617320557,
+    "repay_ratio": 0.3917659549368881,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0xcbbd9fe837a14258286bbf2e182cbc4e4518c5a3",
+    "borrow_total": 119.6,
+    "supply_total": 1218.01,
+    "repay_total": 10.51,
+    "borrow_supply_ratio": 0.09819295408083677,
+    "repay_ratio": 0.087876254180602,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0xcecf5163bb057c1aff4963d9b9a7d2f0bf591710",
+    "borrow_total": 176.08,
+    "supply_total": 358.15,
+    "repay_total": 156.19,
+    "borrow_supply_ratio": 0.49163758201870733,
+    "repay_ratio": 0.8870399818264425,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0xcf0033bf27804640e5339e06443e208db5870dd2",
+    "borrow_total": 33.97,
+    "supply_total": 461.07,
+    "repay_total": 24.95,
+    "borrow_supply_ratio": 0.07367644826165225,
+    "repay_ratio": 0.7344715925816897,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0xd0df53e296c1e3115fccc3d7cdf4ba495e593b56",
+    "borrow_total": 986.63,
+    "supply_total": 1405.98,
+    "repay_total": 201.84,
+    "borrow_supply_ratio": 0.7017382893071025,
+    "repay_ratio": 0.20457517002321032,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0xd1a3888fd8f490367c6104e10b4154427c02dd9c",
+    "borrow_total": 344.84,
+    "supply_total": 748.99,
+    "repay_total": 90.28,
+    "borrow_supply_ratio": 0.46040668099707605,
+    "repay_ratio": 0.26180257510729615,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0xd334d18fa6bada9a10f361bae42a019ce88a3c33",
+    "borrow_total": 624.36,
+    "supply_total": 1866.02,
+    "repay_total": 61.1,
+    "borrow_supply_ratio": 0.33459448451785084,
+    "repay_ratio": 0.09786020885386636,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0xd9d3930ffa343f5a0eec7606d045d0843d3a02b4",
+    "borrow_total": 419.64,
+    "supply_total": 441.31,
+    "repay_total": 247.99,
+    "borrow_supply_ratio": 0.9508961954181867,
+    "repay_ratio": 0.5909589171670957,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0xdde73df7bd4d704a89ad8421402701b3a460c6e9",
+    "borrow_total": 19.42,
+    "supply_total": 180.27,
+    "repay_total": 5.37,
+    "borrow_supply_ratio": 0.10772729794197593,
+    "repay_ratio": 0.276519052523172,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0xde92d70253604fd8c5998c8ee3ed282a41b33b7f",
+    "borrow_total": 342.16,
+    "supply_total": 735.54,
+    "repay_total": 6.75,
+    "borrow_supply_ratio": 0.4651820431247791,
+    "repay_ratio": 0.019727612812719193,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0xded1f838ae6aa5fcd0f13481b37ee88e5bdccb3d",
+    "borrow_total": 120.84,
+    "supply_total": 130.26,
+    "repay_total": 54.16,
+    "borrow_supply_ratio": 0.927683095347766,
+    "repay_ratio": 0.44819596160211844,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0xebb8629e8a3ec86cf90cb7600264415640834483",
+    "borrow_total": 721.62,
+    "supply_total": 1069.54,
+    "repay_total": 238.85,
+    "borrow_supply_ratio": 0.6747012734446585,
+    "repay_ratio": 0.3309913805049749,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0xeded1c8c0a0c532195b8432153f3bfa81dba2a90",
+    "borrow_total": 19.25,
+    "supply_total": 104.84,
+    "repay_total": 15.92,
+    "borrow_supply_ratio": 0.1836131247615414,
+    "repay_ratio": 0.827012987012987,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0xf10fd8921019615a856c1e95c7cd3632de34edc4",
+    "borrow_total": 157.01,
+    "supply_total": 1822.39,
+    "repay_total": 59.95,
+    "borrow_supply_ratio": 0.08615609172570085,
+    "repay_ratio": 0.38182281383351385,
+    "liquidated_count": 0
+  },
+  {
+    "wallet_id": "0xf340b9f2098f80b86fbc5ede586c319473aa11f3",
+    "borrow_total": 558.24,
+    "supply_total": 1426.97,
+    "repay_total": 36.17,
+    "borrow_supply_ratio": 0.3912065425341808,
+    "repay_ratio": 0.06479292060762397,
+    "liquidated_count": 1
+  },
+  {
+    "wallet_id": "0xf54f36bca969800fd7d63a68029561309938c09b",
+    "borrow_total": 313.79,
+    "supply_total": 708.01,
+    "repay_total": 187.54,
+    "borrow_supply_ratio": 0.4431999548028983,
+    "repay_ratio": 0.5976608559864877,
+    "liquidated_count": 2
+  },
+  {
+    "wallet_id": "0xf60304b534f74977e159b2e159e135475c245526",
+    "borrow_total": 186.32,
+    "supply_total": 282.24,
+    "repay_total": 157.0,
+    "borrow_supply_ratio": 0.6601473922902494,
+    "repay_ratio": 0.8426363246028339,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0xf67e8e5805835465f7eba988259db882ab726800",
+    "borrow_total": 395.38,
+    "supply_total": 727.06,
+    "repay_total": 246.76,
+    "borrow_supply_ratio": 0.5438065634198003,
+    "repay_ratio": 0.6241084526278516,
+    "liquidated_count": 2
+  },
+  {
+    "wallet_id": "0xf7aa5d0752cfcd41b0a5945867d619a80c405e52",
+    "borrow_total": 1415.75,
+    "supply_total": 1529.14,
+    "repay_total": 524.7,
+    "borrow_supply_ratio": 0.9258472082346939,
+    "repay_ratio": 0.37061628112307965,
+    "liquidated_count": 2
+  },
+  {
+    "wallet_id": "0xf80a8b9cfff0febf49914c269fb8aead4a22f847",
+    "borrow_total": 334.49,
+    "supply_total": 1181.94,
+    "repay_total": 311.24,
+    "borrow_supply_ratio": 0.2830008291453035,
+    "repay_ratio": 0.9304911955514366,
+    "liquidated_count": 3
+  },
+  {
+    "wallet_id": "0xfe5a05c0f8b24fca15a7306f6a4ebb7dcf2186ac",
+    "borrow_total": 60.61,
+    "supply_total": 266.15,
+    "repay_total": 23.95,
+    "borrow_supply_ratio": 0.22772872440353187,
+    "repay_ratio": 0.39514931529450587,
+    "liquidated_count": 3
+  }
+]
