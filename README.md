@@ -24,7 +24,7 @@
 
 4. **How to RUN**
    *clone github
-      git clone https://github.com/yourusername/wallet_risk_scoring.git
+      git clone https://github.com/Ais55/wallet-risk-scoring.git
       cd wallet_risk_scoring
 
    *Create a virtual environment (optional but recommended)on terminal
